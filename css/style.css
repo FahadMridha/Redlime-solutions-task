@@ -1,0 +1,71 @@
+.hero-section {
+  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(255, 255, 255, 0)),
+    url("../images/Group 1725.png");
+  height: 856px;
+}
+
+.bookRide {
+  width: 441px;
+  height: 357px;
+  background: rgba(33, 34, 36, 0.9);
+  border-radius: 15px;
+}
+.bookNow {
+  color: #0fc500;
+  border: 1px solid;
+  border-color: #0fc500;
+}
+.hourlyColor {
+  color: rgba(255, 255, 255, 0.5);
+}
+.nextStep {
+  color: white;
+  background-color: #0fc500;
+}
+.trusted {
+  margin-top: 220px;
+}
+.experienceMargin {
+  margin-top: 80px;
+  margin-bottom: 140px;
+}
+.advertise {
+  padding-block: 80px;
+  background-color: #f8f8f8;
+}
+.fleets {
+  font-weight: 700;
+  background-color: #0376f9;
+}
+.client-say {
+  background-color: #101010;
+  height: 523px;
+}
+.client-bg {
+  opacity: 0.1;
+}
+.client-text {
+  margin-top: -170px;
+  color: white;
+}
+.client-img {
+  height: 100px;
+}
+.connected {
+  background-color: #f0efea;
+  border-radius: 15px;
+  margin-bottom: 90px;
+}
+
+.footer-info {
+  color: white;
+  background-color: #101010;
+}
+.search {
+  width: 310px;
+  height: 50px;
+  border-radius: 5px;
+}
+.footer-bottom {
+  background-color: #060606;
+}
